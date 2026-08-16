@@ -1,5 +1,5 @@
-year,inflation_pct,total_expenditure,food_at_home,housing,transportation,healthcare,food_away_from_home,alcoholic_beverages,apparel_and_services,entertainment,personal_care,reading,necessity_spending,luxury_spending,necessity_share_pct,luxury_share_pct,luxury_to_necessity_ratio,inflation_group
-2020,1.2,61332,4935,21417,9826,5177,2375,478,1434,2909,646,114,41355,7956,67.428,12.972,0.192,Lower (<4.5%)
-2021,4.7,66928,5259,22624,10961,5452,3030,554,1754,3568,771,114,44296,9791,66.185,14.629,0.221,High (>=4.5%)
-2022,8.0,72967,5703,24298,12295,5850,3639,583,1945,3458,866,117,48146,10608,65.983,14.538,0.22,High (>=4.5%)
-2023,4.1,77280,6053,25436,13174,6159,3933,637,2041,3635,950,117,50822,11313,65.763,14.639,0.223,Lower (<4.5%)
+year,inflation_pct,total_expenditure,food_at_home,housing,transportation,healthcare,food_away_from_home,alcoholic_beverages,apparel_and_services,entertainment,personal_care,reading,necessity_spending,luxury_spending,necessity_share_pct,luxury_share_pct,luxury_to_necessity_ratio,inflation_group,necessity_growth_pct,luxury_growth_pct
+2020,1.2,61332,4935,21417,9826,5177,2375,478,1434,2909,646,114,41355,7956,67.4281,12.972,0.1924,Lower (<4.5%),,
+2021,4.7,66928,5259,22624,10961,5452,3030,554,1754,3568,771,114,44296,9791,66.1846,14.6292,0.221,High (>=4.5%),7.1116,23.0644
+2022,8.0,72967,5703,24298,12295,5850,3639,583,1945,3458,866,117,48146,10608,65.9833,14.5381,0.2203,High (>=4.5%),8.6915,8.3444
+2023,4.1,77280,6053,25436,13174,6159,3933,637,2041,3635,950,117,50822,11313,65.7635,14.639,0.2226,Lower (<4.5%),5.5581,6.6459
