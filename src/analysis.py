@@ -12,7 +12,7 @@ import pandas as pd
 import seaborn as sns
 from scipy import stats
 
-BASE_DIR = Path(__file__).parent
+BASE_DIR = Path(__file__).resolve().parent.parent
 os.environ.setdefault("MPLCONFIGDIR", str(BASE_DIR / ".matplotlib_cache"))
 
 DATA_FILE = BASE_DIR / "data" / "consumer_basket_2020_2023.csv"
