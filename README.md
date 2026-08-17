@@ -49,14 +49,14 @@ The threshold for high inflation is **4.5%** annual CPI-U inflation. The code la
 3. Run the program:
 
    ```bash
-   python analysis.py
+   python src/analysis.py
    ```
 
 ## Output files
 
 After running the program, these files are created:
 
-- `results_summary.csv`: original data plus calculated spending measures.
+- `data/results_summary.csv`: original data plus calculated spending measures.
 - `figures/01_inflation_threshold.png`: annual inflation and the 4.5% threshold.
 - `figures/02_basket_shares_over_time.png`: necessity and luxury/discretionary shares over time.
 - `figures/03_threshold_comparison.png`: average basket shares for the two inflation groups.
