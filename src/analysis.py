@@ -229,7 +229,7 @@ def main():
     stats_dict = calculate_statistics(df)
 
     # Export Processed Dataset
-    output_path = BASE_DIR / "results_summary.csv"
+    output_path = BASE_DIR / "data"/"results_summary.csv"
     df.round(4).to_csv(output_path, index=False)
 
     print("\n" + "=" * 55)
